@@ -1,6 +1,5 @@
 package main;
 
-
 public class BalancedBrackets {
     /**
      * The function BalancedBrackets should return true if and only if
